@@ -1,1 +1,1 @@
-# Coursera
+Homework Assignments & Projects in Coursera
